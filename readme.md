@@ -16,7 +16,6 @@ Repository ini berisi tiga proyek implementasi algoritma Kecerdasan Buatan (AI) 
 | **NIM**            | 32602300013                           |
 | **Mata Kuliah**    | Artificial Intelligence               |
 | **Dosen Pengampu** | Sam Farisa Chaerul Haviana, ST., M.Kom|
-+------------------------------------------------------------+
 
 # 📁 Struktur Folder Proyek
 ```
