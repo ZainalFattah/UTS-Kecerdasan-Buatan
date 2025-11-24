@@ -158,6 +158,7 @@ Untuk input:
 * Service = 3
 Didapatkan tip ≈ 4.08%
 
+## Soal No. 3
 **Perhitungan tangan (kasus soal): Food=7, Service=3**
 (from infer_tip logic — saya hitung manual dan cocok dengan kode di atas)
 
